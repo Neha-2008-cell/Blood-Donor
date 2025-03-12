@@ -18,7 +18,7 @@ p{
   margin:150px;
   padding:10px;
 }
-.total{  background:url("/pattern.jpg") no-repeat center/cover;  
+.total{  background:url("pattern.jpg") no-repeat center/cover;  
   min-height:100vh;
   box-sizing: border-box;
   margin:0px;
