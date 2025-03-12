@@ -3,7 +3,7 @@
   color:black;
 }
 #full{
-  background:url("/pattern.jpg") no-repeat center/cover;  
+  background:url("pattern.jpg") no-repeat center/cover;  
   min-height:100vh;
   box-sizing: border-box;
   margin:0px;
