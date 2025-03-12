@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="take.css">
+    <!--Tab to edit-->
+  
+  <title></title>
+  
+  
+</head>
+
+<body>
+     <div id="full">
+      <div id="header">
+     <a  href="index.html">
+       Home
+     </a>
+     <a href="About.html">
+       About Us
+     </a>
+     <a href="Contact.html">
+       Contact
+     </a>
+   </div> 
+   <h1>
+    Find Blood Donors <!--Tab to edit-->
+   </h1>
+   <form id="form">
+  <div class="inf">
+<div>
+     <div>
+    <label for="district">
+    Select District
+  </label>
+  </div>
+  <div>
+    <select id="district">
+    <option selected disabled>--Select District-- </option>
+   <option>Churu</option>
+   <option>Hanumangarh</option>
+   <option>Bikaner</option>
+   <option>Jaipur</option>
+   <option>Jaisalmer </option>
+   <option>Badhmer</option>
+   <option>Dosa</option>
+   <option>Pali</option>
+   <option>Udaipur</option>
+   <option>Bharatpur</option>
+  </select>
+  </div>
+</div>
+<div>
+  <div>
+  <label for="blood">
+    Select Blood Group 
+  </label>
+  </div>
+  <div>
+    <select id="blood">
+   <option selected disabled>--Select Blood Group--</option>
+    <option>A+</option>
+    <option>A-</option>
+    <option>B+</option>
+    <option>B-</option>
+    <option>AB+</option>
+    <option>AB-</option>
+    <option>O+</option>
+    <option>O-</option>
+  </select>
+  </div>
+  </div>
+  <div>
+  <div>
+    <label for="pin">
+    Pincode <!--Tab to edit-->
+  </label>
+  </div>
+  <div>
+    <input type="number" id="pin" placeholder="Enter Pincode">
+    </div>
+  </div>
+  
+  <button type="button" onclick="pop()">Find</button>
+</div>
+      <div id="result"></div>
+
+  </div>
+  <script src='/result.js'>
+    <!--Tab to edit-->
+  </script>
+
+  </form>
+
+</body>
+
+</html>

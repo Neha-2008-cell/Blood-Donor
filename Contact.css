@@ -1,0 +1,28 @@
+*{
+  text-decoration:none;
+  color:black;
+}
+#header{
+  background:red;
+  padding:20px;
+  display:flex;
+  gap:50px;
+}
+p{
+  text-align:center;
+}
+.info{
+  background: yellow;
+  border:2px solid black;
+  border-radius:10px;
+  margin:150px;
+  padding:10px;
+}
+.total{  background:url("/pattern.jpg") no-repeat center/cover;  
+  min-height:100vh;
+  box-sizing: border-box;
+  margin:0px;
+}
+ a{
+   color:white;
+ }
