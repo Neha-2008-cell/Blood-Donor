@@ -5,7 +5,7 @@
   border-radius:2px;
 }
 #total {
-  background:url("/pattern.jpg") no-repeat center/cover;
+  background:url("pattern.jpg") no-repeat center/cover;
   min-height:100vh;
   box-sizing: border-box;
 }
