@@ -23,7 +23,7 @@ if (pin.length !== 6) {
   return ;
 }
 if (name.length < 3) {
-  alert('‼️ please enter at least 4 character in your name')
+  alert('‼️ please enter at least 3 character in your name')
   return ;
 }
 
