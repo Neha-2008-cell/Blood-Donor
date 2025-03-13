@@ -22,7 +22,7 @@ if (pin.length !== 6) {
   alert('‼️ please enter 10-digit whatsapp number')
   return ;
 }
-if (name.length < 4) {
+if (name.length < 3) {
   alert('‼️ please enter at least 4 character in your name')
   return ;
 }
