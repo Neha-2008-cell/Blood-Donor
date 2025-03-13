@@ -37,7 +37,6 @@ img{
   max-height:400px;
   max-width:400px;
   align-self:center;
-  filter:brightness(1.5) contrast(1.5);
 }
 p{
   text-align:center;
