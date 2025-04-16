@@ -50,8 +50,4 @@ p{
     padding:5px;
   }
 }
-@media(max-width:768px) {
-  #main>a{
-    padding:10px;
-  }
-}
+
