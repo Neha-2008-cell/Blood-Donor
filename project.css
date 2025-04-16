@@ -46,16 +46,4 @@ p{
   font-weight: bold;
  color:black;
 }
-@media(max-width:576px) {
-  #main>a{
-    padding:5px;
-    font-size:20px;
-  }
-}
-@media(max-width:768px) {
-  #main>a{
-    padding:20px;
-    font-size:40px;
-  }
-}
 
