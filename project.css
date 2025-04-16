@@ -50,6 +50,7 @@ p{
 @media(max-width:576px) {
   #main>a{
     padding:5px;
+    font-size:20px;
   }
 }
 @media(max-width:768px) {
