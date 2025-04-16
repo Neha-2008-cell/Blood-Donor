@@ -53,6 +53,7 @@ p{
 @media(max-width:768px) {
   #main>a{
     padding:20px;
+    font-size:30px;
   }
 }
 
