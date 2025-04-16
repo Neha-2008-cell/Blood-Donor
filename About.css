@@ -29,3 +29,14 @@
 @media(max-width:576px){
 
 }
+@media(max-height:526px){
+  h1{
+    font-size:20px;
+  }
+  p{
+    font-size:15px;
+  }
+  #information{
+    padding:10px;
+  }
+}
