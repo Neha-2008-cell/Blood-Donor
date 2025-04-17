@@ -49,4 +49,13 @@ p{
 body{
 overflow-x:hidden;
 }
+@media(max-height:760px){
+  #main>a{
+    margin:50px;
+  }
+}
+
+
+
+
 
