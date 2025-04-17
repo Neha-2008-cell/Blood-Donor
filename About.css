@@ -22,6 +22,7 @@
 
 #information{
   margin:100px;
+ display:flex;
 }
  a{
    color:white;
