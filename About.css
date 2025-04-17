@@ -16,13 +16,14 @@
 #header{
   background:red;
   padding:20px;
-  display:flex;
+ 
   gap:50px;
 }
 
 #information{
   margin:100px;
  display:flex;
+flex-direction:column;
 }
  a{
    color:white;
