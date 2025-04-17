@@ -22,8 +22,6 @@
 
 #information{
   margin:100px;
- display:flex;
- flex-direction:column;
 }
  a{
    color:white;
