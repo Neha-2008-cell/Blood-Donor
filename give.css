@@ -58,7 +58,7 @@ input,select{
  p{
    font-size:10px;
  }
-@media(max-width:576px;){
+@media(max-width:760px;){
  .inf{
  margin:40px;
  padding:20px;
