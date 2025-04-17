@@ -58,3 +58,12 @@ input,select{
  p{
    font-size:10px;
  }
+@media(max-width:576px;){
+ .inf{
+ margin:40px;
+ padding:20px;
+ }
+ button{
+ padding:10px 30px;
+ }
+}
