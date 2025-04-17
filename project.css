@@ -46,4 +46,7 @@ p{
   font-weight: bold;
  color:black;
 }
+body{
+overflow-x:hidden;
+}
 
