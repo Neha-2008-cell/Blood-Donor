@@ -26,6 +26,6 @@ p{
  a{
    color:white;
  }
-@media(max-height:760px){
+@media(max-width:760px){
   .info{margin:20px;}
 }
