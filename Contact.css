@@ -27,5 +27,8 @@ p{
    color:white;
  }
 @media(max-width:760px){
-  .info{margin:20px;}
+  .info{
+  margin:20px;
+  padding:10px;
+}
 }
